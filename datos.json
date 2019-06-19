@@ -1,0 +1,140 @@
+{
+"datos_personales":[
+    {
+        "column_display": "Nombre",
+        "column_value": "Yanpiere Rafael"
+    },
+    {
+        "column_display": "Apellidos",
+        "column_value": "Sánchez Gastelu"
+    },
+    {
+        "column_display" : "DNI",
+        "column_value" : "y1167843d"
+    },
+    {
+        "column_display": "Fecha nacimiento",
+        "column_value": "26/08/1995"
+
+    },
+    {
+        "column_display": "Email",
+        "column_value": "yampiersanchezgastelu@gmail.com"
+    },
+    {
+        "column_display":"Estado civil",
+        "column_value":"Soltero"
+    },
+    {
+        "column_display":"Nacionalidad",
+        "column_value":"Peruana"
+    },
+    {
+        "column_display": "Carnet de conducir",
+        "column_value": "No"
+    },
+    {
+        "column_display": "Disponibilidad para viajar",
+        "column_value": "Si"
+    }
+],
+"estudios" : [
+    {
+        "rango": "2013-2014",
+        "lugar": "INS Miquel Biada",
+        "titulo":"Auxiliar técnico en microsistemas Informáticos",
+        "nota":"9"
+    },
+    {
+        "rango":"2014-2016",
+        "lugar":"INS Thos I Codina",
+        "titulo":"Técnico en  microsistemas Informáticos en red",
+        "nota":"8"
+    },
+    {
+        "rango":"2017-2019",
+        "lugar":"INS Thos I Codina",
+        "titulo":"Administrador de  microsistemas Informáticos en red",
+        "nota":"9"
+    }
+],
+"cursos" :[
+    {
+        "any":"2016",
+        "nombre":"Espionaje y cibervigilancia(Incibe)",
+        "lugar":"INS Thos I Codina",
+        "horas":"5",
+        "tipo":"Presencial"
+    },
+    {
+        "any":"2019",
+        "nombre":"Fundamentos Generales: Orquestación y Automatizacion IT",
+        "lugar":"openwebinars",
+        "horas":"2",
+        "tipo":"a distancia"
+    },
+    {
+        "any":"2019",
+        "nombre":"Curso de Angular 6",
+        "lugar": "openwebinars",
+        "horas":"20",
+        "tipo":"a distancia"
+    },
+    {
+        "any":"2019",
+        "nombre":"Curso de Java 8 desde Cero",
+        "lugar": "openwebinars",
+        "horas":"30",
+        "tipo":"a distancia"
+    },
+    {
+        "any":"2019",
+        "nombre":"Curso de Python 3 desde cero",
+        "lugar": "openwebinars",
+        "horas":"15",
+        "tipo":"a distancia"
+    },
+    {
+        "any":"2019",
+        "nombre":"Curso Online de introducción a Cloud Computing",
+        "lugar": "openwebinars",
+        "horas":"30",
+        "tipo":"a distancia"
+    },
+    {
+        "any":"2019",
+        "nombre":"Virtualización de servidores con Proxmox, Kvm Y Openvz",
+        "lugar": "openwebinars",
+        "horas":"30",
+        "tipo":"a distancia"
+    }
+],
+    "experiencia":[
+        {
+            "rango":"Diciembre 2013 - Febrero 2014",
+            "empresa":"Grupo Casabella",
+            "posicion":"Auxiliar Informático",
+            "descripcion":"Montaje de equipos microinfromáticos y mantenimiento de impresoras"           
+        },
+        {
+            "rango":"Noviembre 2016 - marzo 2017",
+            "empresa":"Mestic",
+            "posicion":"Técnico Informático",
+            "descripcion":"Mantenimiento de equipos empresariales e instalación de software propietario"           
+        },
+        {
+            "rango":"Junio 2017 - Noviembre 2018",
+            "empresa":"Forn Maresme",
+            "posicion":"Obrador",
+            "descripcion":"Elavoración de pan gourmet"           
+        },
+        {
+            "rango":"Novienbre 2018 - Febrero 2019",
+            "empresa":"consorci sanitari del maresme",
+            "posicion":"Técnico informático",
+            "descripcion":"Dar mantenimiento a los computadores del Active Directori del consorcio"           
+        }
+    ]
+
+
+}
