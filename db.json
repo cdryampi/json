@@ -134,6 +134,64 @@
             "posicion":"Técnico informático",
             "descripcion":"Dar mantenimiento a los computadores del Active Directori del consorcio"           
         }
+    ],
+    "habilidades": [
+        {
+            "nombre": "Java SE",
+            "valor": "90"
+        },
+        {
+            "nombre": "Kubernetes",
+            "valor": "80"
+        },
+        {
+            "nombre": "Angular",
+            "valor": "90"
+        },
+        {
+            "nombre": "Python",
+            "valor": "60"
+        },
+        {
+            "nombre": "PHP",
+            "valor": "50"
+        },
+        {
+            "nombre": "Docker",
+            "valor": "30"
+        },
+        {
+            "nombre": "Wordpress",
+            "valor": "90"
+        },
+        {
+            "nombre": "CSS",
+            "valor": "80"
+        },
+        {
+            "nombre": "Proxmox",
+            "valor": "40"
+        },
+        {
+            "nombre": "Prestashop",
+            "valor": "70"
+        },
+        {
+            "nombre": "MySQL",
+            "valor": "70"
+        },
+        {
+            "nombre": "Vagrant",
+            "valor": "60"
+        },
+        {
+            "nombre": "Javascript",
+            "valor": "30"
+        },
+        {
+            "nombre": "Windows Server",
+            "valor": "30"
+        }
     ]
 
 
