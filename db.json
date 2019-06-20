@@ -138,59 +138,73 @@
     "habilidades": [
         {
             "nombre": "Java SE",
-            "valor": "90"
+            "valor": "60",
+            "color": "#FF7A33"
         },
         {
             "nombre": "Kubernetes",
-            "valor": "80"
+            "valor": "50",
+            "color": "#FE3C22"
         },
         {
             "nombre": "Angular",
-            "valor": "90"
+            "valor": "30",
+            "color": "#FE2222"
         },
         {
             "nombre": "Python",
-            "valor": "60"
+            "valor": "60",
+            "color":"#FE7222"
         },
         {
             "nombre": "PHP",
-            "valor": "50"
+            "valor": "50",
+            "color":"#FE7222"
         },
         {
             "nombre": "Docker",
-            "valor": "30"
+            "valor": "30",
+            "color":"#FE7222"
         },
         {
             "nombre": "Wordpress",
-            "valor": "90"
+            "valor": "90",
+            "color":"#FE7222"
         },
         {
             "nombre": "CSS",
-            "valor": "80"
+            "valor": "80",
+            "color":"#FE7222"
         },
         {
             "nombre": "Proxmox",
-            "valor": "40"
+            "valor": "40",
+            "color":"#FE7222"
         },
         {
             "nombre": "Prestashop",
-            "valor": "70"
+            "valor": "70",
+            "color":"#FE7222"
         },
         {
             "nombre": "MySQL",
-            "valor": "70"
+            "valor": "70",
+            "color":"#FE7222"
         },
         {
             "nombre": "Vagrant",
-            "valor": "60"
+            "valor": "60",
+            "color":"#FE7222"
         },
         {
             "nombre": "Javascript",
-            "valor": "30"
+            "valor": "30",
+            "color":"#FE7222"
         },
         {
             "nombre": "Windows Server",
-            "valor": "30"
+            "valor": "30",
+            "color":"#FE7222"
         }
     ]
 
